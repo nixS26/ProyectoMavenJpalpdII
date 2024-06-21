@@ -39,6 +39,11 @@ Registrar Cliente
 <tr/>
 
 <tr>
+<td>sexo</td>
+<td><input type="text" name="sexo"></td>
+<tr/>
+
+<tr>
 <td>nacionalidad</td>
 <td><input type="text" name="nacionalidad"></td>
 <tr/>
